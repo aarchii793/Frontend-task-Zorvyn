@@ -6,7 +6,7 @@ SmartLedger is a personal finance tracking dashboard built with React and TypeSc
 
 ## Live Preview
 
-_(placeholder URL)_
+https://frontend-task-zorvyn.vercel.app/
 
 ## Feature Highlights
 
@@ -48,8 +48,8 @@ _(placeholder URL)_
 
 ```bash
 # Clone the repository
-git clone <repo-url>
-cd <repo-folder>
+git clone https://github.com/aarchii793/Frontend-task-Zorvyn
+cd Frontend-task-Zorvyn
 
 # Install dependencies
 npm install
